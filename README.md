@@ -28,16 +28,24 @@ O pipeline realiza as seguintes etapas:
 
 ## Estrutura do Projeto
 
+---
+
+## Estrutura do Projeto
+
 O repositório está organizado da seguinte forma:
+
+```bash
+projeto-iot-pipeline/
 ├── data/
 │   └── IOT-temp.csv        # Dataset original
 ├── src/
 │   ├── data_processor.py   # Script para ingestão de dados
 │   └── dashboard.py        # Script do dashboard Streamlit
-├── .gitignore              # Arquivo para ignorar arquivos desnecessários (opcional)
-└── README.md               # Documentação do projeto
+├── views.sql               # Script com as Views SQL
+├── README.md               # Documentação do projeto
+└── dashboard-screenshot.jpeg # Imagem do dashboard
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 Siga os passos abaixo para executar o projeto em seu ambiente local.
 
@@ -90,6 +98,6 @@ Siga os passos abaixo para executar o projeto em seu ambiente local.
 
 ---
 
-## 📊 Dashboard
+## Dashboard
 
 ![Screenshot do Dashboard 1](dashboard-screenshot.jpeg)

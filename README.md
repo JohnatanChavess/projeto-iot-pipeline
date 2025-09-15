@@ -92,7 +92,4 @@ Siga os passos abaixo para executar o projeto em seu ambiente local.
 
 ## 📊 Dashboard
 
-*(Esta seção será atualizada com screenshots do dashboard finalizado)*
-
-![Screenshot do Dashboard 1](URL_DA_IMAGEM_AQUI)
-![Screenshot do Dashboard 2](URL_DA_IMAGEM_AQUI)
+![Screenshot do Dashboard 1](dashboard-screenshot.jpeg)
